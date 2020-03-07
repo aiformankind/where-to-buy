@@ -1,1 +1,3 @@
-more tests
+[
+    "item1:storeA"
+]
