@@ -11,26 +11,8 @@ We have a bot to collect the infos and share on our web page here.
 
 Thank you for helping our community in this time of need.
 
-
-
-[
-    "hand sanitizer2:Target 2800 Dublin Blvd, Dublin, CA"
-]
-
-[
-    "hand sanitizer 1:Target 2800 Dublin Blvd, Dublin, CA\nwipes 1:Target 2800 Dublin Blvd, Dublin, CA"
-]
-
-[
-    "wipes:Target 2800 Dublin Blvd, Dublin, CA"
-]
+### SEE LATEST ITEM AVAILABILITY BELOW:
 
 [
     "hand sanitizer:Target 2800 Dublin Blvd, Dublin, CA"
 ]
-
-[
-    "hand sanitizer:Target 2800 Dublin Blvd, Dublin, CA",
-    "hand sanitizer:Target 2800 Dublin Blvd, Dublin, CA"
-]
-
