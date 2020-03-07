@@ -14,6 +14,10 @@ Thank you for helping our community in this time of need.
 
 
 [
+    "hand sanitizer 1:Target 2800 Dublin Blvd, Dublin, CA\nwipes 1:Target 2800 Dublin Blvd, Dublin, CA"
+]
+
+[
     "wipes:Target 2800 Dublin Blvd, Dublin, CA"
 ]
 
