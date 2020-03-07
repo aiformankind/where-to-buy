@@ -11,7 +11,7 @@ We have a bot to collect the infos and share on our web page here.
 
 Thank you for helping our community in this time of need.
 
-### SEE LATEST ITEM AVAILABILITY BELOW:
+
 
 [
     "hand sanitizer:Target 2800 Dublin Blvd, Dublin, CA"
