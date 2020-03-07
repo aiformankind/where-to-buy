@@ -1,4 +1,8 @@
 [
+    "item9:storeC"
+]
+
+[
     "item8:storeC"
 ]
 [
