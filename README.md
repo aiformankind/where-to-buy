@@ -14,5 +14,11 @@ Thank you for helping our community in this time of need.
 
 
 [
+    "hand sanitizer:Target 2800 Dublin Blvd, Dublin, CA",
+    "hand sanitizer:Target 2800 Dublin Blvd, Dublin, CA",
+    "hand sanitizer:Target 2800 Dublin Blvd, Dublin, CA"
+]
+
+[
     "hand sanitizer:Target 2800 Dublin Blvd, Dublin, CA"
 ]
