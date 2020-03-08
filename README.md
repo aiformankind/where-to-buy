@@ -7,13 +7,11 @@ The goal is to crowdsource items (mask, hand sanitizer, wipes etc) availability 
 
 #### Please follow this post format: hand sanitizer:Target 2800 Dublin Blvd, Dublin, CA
 
-We have a bot to collect the infos and share on our web page here.
+We have a bot to collect the infos and share it on **[item availability page](item_availability.md).**
 
 Thank you for helping our community in this time of need.
 
 
 
-[
-    "hand sanitizer:Target 2800 Dublin Blvd, Dublin, CA submitted at 03/08/20 01:35:37 AM"
-]
+
 
