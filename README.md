@@ -17,6 +17,3 @@ Thank you for helping our community in this time of need.
     "hand sanitizer:Target 2800 Dublin Blvd, Dublin, CA submitted at 03/08/20 01:35:37 AM"
 ]
 
-[
-    "hand sanitizer:Target 2800 Dublin Blvd, Dublin, CA submitted at 03/08/20 01:33:48 AM"
-]
